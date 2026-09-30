@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Book for Girlfriend - DEV",
+  "description": "An interactive 3D romantic flipbook created for girlfriend with music, messages, and memories by DEV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
